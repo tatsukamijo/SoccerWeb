@@ -1,0 +1,276 @@
+#mainNav {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  background-color: #fff;
+  transition: background-color 0.2s ease;
+}
+#mainNav .navbar-brand {
+  font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  color: #212529;
+}
+#mainNav .navbar-nav .nav-item .nav-link {
+  color: #6c757d;
+  font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 700;
+  font-size: 0.9rem;
+  padding: 0.75rem 0;
+}
+#mainNav .navbar-nav .nav-item .nav-link:hover, #mainNav .navbar-nav .nav-item .nav-link:active {
+  color: white;
+}
+#mainNav .navbar-nav .nav-item .nav-link.active {
+  color: white !important;
+}
+@media (min-width: 992px) {
+  #mainNav {
+    box-shadow: none;
+    background-color: transparent;
+  }
+  #mainNav .navbar-brand {
+    color: rgba(255, 255, 255, 0.7);
+  }
+  #mainNav .navbar-brand:hover {
+    color: #fff;
+  }
+  #mainNav .navbar-nav .nav-item .nav-link {
+    color: rgba(255, 255, 255, 0.7);
+    padding: 0 1rem;
+  }
+  #mainNav .navbar-nav .nav-item .nav-link:hover {
+    color: #fff;
+  }
+  #mainNav .navbar-nav .nav-item:last-child .nav-link {
+    padding-right: 0;
+  }
+  #mainNav.navbar-shrink {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    /* background-color: #fff; */
+    background-color: rgba(65, 113, 52, 0.8);
+  }
+  #mainNav.navbar-shrink .navbar-brand {
+    color: #212529;
+  }
+  #mainNav.navbar-shrink .navbar-brand:hover {
+    color: white;
+  }
+  #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link {
+    color: #212529;
+  }
+  #mainNav.navbar-shrink .navbar-nav .nav-item .nav-link:hover {
+    color: white;
+  }
+}
+
+
+
+header.masthead {
+    padding-top: 10rem;
+    padding-bottom: calc(10rem - 4.5rem);
+    background: url("../assets/img/soccer_web.jpg");
+    opacity: 0.93;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+  header.masthead h1, header.masthead .h1 {
+    font-size: 2.25rem;
+  }
+  @media (min-width: 992px) {
+    header.masthead {
+      height: 100vh;
+      min-height: 40rem;
+      padding-top: 4.5rem;
+      padding-bottom: 0;
+    }
+    header.masthead p {
+      font-size: 1.15rem;
+    }
+    header.masthead h1, header.masthead .h1 {
+      font-size: 3rem;
+    }
+  }
+  @media (min-width: 1200px) {
+    header.masthead h1, header.masthead .h1 {
+      font-size: 3.5rem;
+    }
+  }
+
+.form {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background: url("../assets/img/player5.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.animated {
+  animation: move-y 0.8s infinite alternate ease-in-out;
+  display: inline-block;
+}
+@keyframes move-y {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(10px);
+  }
+}
+.animated:hover{
+  animation-play-state: paused;
+}
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:300);
+@import url(https://fonts.googleapis.com/css?family=Lusitana:400,700);
+
+
+
+.contact-form .form-field {
+  position: relative;
+  margin: 25px 0;
+}
+.contact-form .input-text {
+  border:none;
+  display: inline-block;
+  background-color: transparent;
+  width: 100%;
+  text-align:center;
+  font-family: Lusitana, serif;
+  font-size: 22px;
+  font-weight: 400;
+  /* animation: zoom-in-zoom-out 0.8s infinite alternate ease-in-out; */
+}
+
+/* @keyframes zoom-in-zoom-out {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.6);
+  }
+}
+.input-text::placeholder {
+  color: black;
+} */
+
+.contact-form .input-text:focus {
+  outline: none;
+}
+.contact-form .label {
+  text-align: center;
+  font-family: Lusitana, serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: black;
+  cursor: text;
+}
+.contact-form .submit-btn{
+  display: inline-block;
+  /* background-color: #D2D36B; */
+  background-color: transparent;
+  border: solid black 2px;
+  /* border-radius: 50%; */
+  color: black;
+  font-weight:bolder;
+  font-family: Raleway, sans-serif;
+  text-transform: uppercase;
+  /* letter-spacing: 2px; */
+  font-size: 25px;
+  line-height: 24px;
+  /* padding: 8px 16px; */
+  /* width: 120px;
+  height: 120px; */
+  /* border: none; */
+  transition-duration: 0.3s;
+  cursor: pointer;
+}
+
+.contact-form .submit-btn:hover {
+  color: #212529;
+  transform: scale(1.1);
+}
+
+.no-spin::-webkit-inner-spin-button,
+.no-spin::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    -moz-appearance:textfield;
+}
+
+select {
+  outline: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+/* ie対応 */
+select::-ms-expand {
+  display: none;
+}
+select:invalid { color: #757574; }
+select option:first-child { color: #757574; }
+
+.heading {
+  padding-bottom: 5rem;
+  display: block;
+  padding-top: 70px;
+  margin-top: -70px;
+}
+
+.subtitle {
+  color: white;
+}
+
+
+.card-img-top {
+  max-width: 300px;
+}
+
+.carousel-item {
+  text-align: center;
+  background: url("../assets/img/turf.jpg");
+  min-height: max-content;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  opacity: 0.93;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+
+.playerData {
+  color: white;
+  padding: 0.8rem;
+}
+
+.playerImage {
+  align-items: center;
+}
+
+.info {
+  text-align: center;
+  color: whitesmoke;
+}
+
+.info-div {
+  text-align: center;
+  background: url("../assets/img/turf.jpg");
+  min-height: max-content;
+  opacity: 0.93;
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 4.5rem);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.info p {
+  text-align: left;
+}

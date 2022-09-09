@@ -1,0 +1,343 @@
+[
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 1,
+    "fields": {
+      "age": "1",
+      "male_height": 78,
+      "male_weight": 10,
+      "female_height": 78,
+      "female_weight": 10
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 2,
+    "fields": {
+      "age": "2",
+      "male_height": 89,
+      "male_weight": 12,
+      "female_height": 87,
+      "female_weight": 12
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 3,
+    "fields": {
+      "age": "3",
+      "male_height": 95,
+      "male_weight": 14,
+      "female_height": 95,
+      "female_weight": 13
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 4,
+    "fields": {
+      "age": "4",
+      "male_height": 103,
+      "male_weight": 16,
+      "female_height": 102,
+      "female_weight": 15
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 5,
+    "fields": {
+      "age": "5",
+      "male_height": 109,
+      "male_weight": 18,
+      "female_height": 110,
+      "female_weight": 18
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 6,
+    "fields": {
+      "age": "6",
+      "male_height": 115,
+      "male_weight": 20,
+      "female_height": 116,
+      "female_weight": 20
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 7,
+    "fields": {
+      "age": "7",
+      "male_height": 121,
+      "male_weight": 23,
+      "female_height": 121,
+      "female_weight": 23
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 8,
+    "fields": {
+      "age": "8",
+      "male_height": 127,
+      "male_weight": 26,
+      "female_height": 125,
+      "female_weight": 24
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 9,
+    "fields": {
+      "age": "9",
+      "male_height": 133,
+      "male_weight": 29,
+      "female_height": 134,
+      "female_weight": 29
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 10,
+    "fields": {
+      "age": "10",
+      "male_height": 137,
+      "male_weight": 32,
+      "female_height": 139,
+      "female_weight": 32
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 11,
+    "fields": {
+      "age": "11",
+      "male_height": 145,
+      "male_weight": 37,
+      "female_height": 145,
+      "female_weight": 37
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 12,
+    "fields": {
+      "age": "12",
+      "male_height": 149,
+      "male_weight": 42,
+      "female_height": 151,
+      "female_weight": 43
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 13,
+    "fields": {
+      "age": "13",
+      "male_height": 158,
+      "male_weight": 45,
+      "female_height": 156,
+      "female_weight": 45
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 14,
+    "fields": {
+      "age": "14",
+      "male_height": 164,
+      "male_weight": 51,
+      "female_height": 155,
+      "female_weight": 47
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 15,
+    "fields": {
+      "age": "15",
+      "male_height": 169,
+      "male_weight": 57,
+      "female_height": 157,
+      "female_weight": 49
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 16,
+    "fields": {
+      "age": "16",
+      "male_height": 169,
+      "male_weight": 58,
+      "female_height": 158,
+      "female_weight": 49
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 17,
+    "fields": {
+      "age": "17",
+      "male_height": 170,
+      "male_weight": 61,
+      "female_height": 160,
+      "female_weight": 53
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 18,
+    "fields": {
+      "age": "18",
+      "male_height": 170,
+      "male_weight": 61,
+      "female_height": 159,
+      "female_weight": 50
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 19,
+    "fields": {
+      "age": "19",
+      "male_height": 169,
+      "male_weight": 62,
+      "female_height": 157,
+      "female_weight": 47
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 20,
+    "fields": {
+      "age": "20",
+      "male_height": 170,
+      "male_weight": 64,
+      "female_height": 157,
+      "female_weight": 51
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 21,
+    "fields": {
+      "age": "21",
+      "male_height": 171,
+      "male_weight": 64,
+      "female_height": 157,
+      "female_weight": 51
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 22,
+    "fields": {
+      "age": "22",
+      "male_height": 171,
+      "male_weight": 65,
+      "female_height": 157,
+      "female_weight": 51
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 23,
+    "fields": {
+      "age": "23",
+      "male_height": 171,
+      "male_weight": 64,
+      "female_height": 158,
+      "female_weight": 51
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 24,
+    "fields": {
+      "age": "24",
+      "male_height": 171,
+      "male_weight": 64,
+      "female_height": 157,
+      "female_weight": 50
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 25,
+    "fields": {
+      "age": "25",
+      "male_height": 172,
+      "male_weight": 67,
+      "female_height": 159,
+      "female_weight": 54
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 26,
+    "fields": {
+      "age": "26～29",
+      "male_height": 171,
+      "male_weight": 66,
+      "female_height": 157,
+      "female_weight": 52
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 27,
+    "fields": {
+      "age": "30～39",
+      "male_height": 171,
+      "male_weight": 69,
+      "female_height": 158,
+      "female_weight": 53
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 28,
+    "fields": {
+      "age": "40～49",
+      "male_height": 170,
+      "male_weight": 70,
+      "female_height": 157,
+      "female_weight": 54
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 29,
+    "fields": {
+      "age": "50～59",
+      "male_height": 168,
+      "male_weight": 68,
+      "female_height": 156,
+      "female_weight": 55
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 30,
+    "fields": {
+      "age": "60～69",
+      "male_height": 165,
+      "male_weight": 64,
+      "female_height": 152,
+      "female_weight": 53
+    }
+  },
+  {
+    "model": "soccer_temp_Django.user_data",
+    "pk": 31,
+    "fields": {
+      "age": "70~",
+      "male_height": 162,
+      "male_weight": 61,
+      "female_height": 148,
+      "female_weight": 50
+    }
+  }
+]

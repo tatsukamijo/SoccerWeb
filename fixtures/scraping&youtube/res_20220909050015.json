@@ -1,0 +1,481 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - messi",
+                "totalResults": "305",
+                "searchTerms": "messi",
+                "count": 10,
+                "startIndex": 1,
+                "language": "lang_ja",
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "c1f5ae34ee0f34427"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - messi",
+                "totalResults": "305",
+                "searchTerms": "messi",
+                "count": 10,
+                "startIndex": 11,
+                "language": "lang_ja",
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "c1f5ae34ee0f34427"
+            }
+        ]
+    },
+    "context": {
+        "title": "www.google.com"
+    },
+    "searchInformation": {
+        "searchTime": 0.480665,
+        "formattedSearchTime": "0.48",
+        "totalResults": "305",
+        "formattedTotalResults": "305"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "リオネル・メッシ - Wikipedia",
+            "htmlTitle": "リオネル・<b>メッシ</b> - Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%AA%E3%83%8D%E3%83%AB%E3%83%BB%E3%83%A1%E3%83%83%E3%82%B7",
+            "displayLink": "ja.wikipedia.org",
+            "snippet": "リオネル・アンドレス・メッシ・クッシッティーニ（Lionel Andrés Messi Cuccittini, スペイン語発音: [ljoˈnel anˈdɾes ˈmesi], 1987年6月24日 - ）は、 ...",
+            "htmlSnippet": "リオネル・アンドレス・<b>メッシ</b>・クッシッティーニ（Lionel Andrés <b>Messi</b> Cuccittini, スペイン語発音: [ljoˈnel anˈdɾes ˈmesi], 1987年6月24日 - ）は、&nbsp;...",
+            "cacheId": "r0-rkrWNEi4J",
+            "formattedUrl": "https://ja.wikipedia.org/wiki/リオネル・メッシ",
+            "htmlFormattedUrl": "https://ja.wikipedia.org/wiki/リオネル・<b>メッシ</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSZV6uhN6OEgbOfICkd5ypuHGrXz7eHWSjm8gmZEwwBOHfprVX9e_uOaM",
+                        "width": "188",
+                        "height": "268"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg",
+                        "theme-color": "#eaecf0",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                        "og:title": "リオネル・メッシ - Wikipedia",
+                        "og:image:height": "1712",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ファイル:Lionel Messi goal 19abr2007.jpg - Wikipedia",
+            "htmlTitle": "ファイル:Lionel <b>Messi</b> goal 19abr2007.jpg - Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Lionel_Messi_goal_19abr2007.jpg",
+            "displayLink": "ja.wikipedia.org",
+            "snippet": "リオネル・メッシ. グローバルなファイル使用状況. 以下に挙げる他のウィキがこの画像を使っています: ar.wikipedia ...",
+            "htmlSnippet": "リオネル・<b>メッシ</b>. グローバルなファイル使用状況. 以下に挙げる他のウィキがこの画像を使っています: ar.wikipedia&nbsp;...",
+            "cacheId": "KWrg37TXuPwJ",
+            "formattedUrl": "https://ja.wikipedia.org/wiki/ファイル:Lionel_Messi_goal_19abr2007.jpg",
+            "htmlFormattedUrl": "https://ja.wikipedia.org/wiki/ファイル:Lionel_<b>Messi</b>_goal_19abr2007.jpg",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnnzwl7h_Mg5g1QGTMzA4SbFHLCk5vnBNHUNU_KasKpNmbuj--YZyxGWaO",
+                        "width": "259",
+                        "height": "194"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Lionel_Messi_goal_19abr2007.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=1000, initial-scale=1.0",
+                        "og:title": "ファイル:Lionel Messi goal 19abr2007.jpg - Wikipedia",
+                        "og:image:height": "900",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Lionel_Messi_goal_19abr2007.jpg"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Lionel Messi goal 19abr2007.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ファイル:Messi vs Nigeria 2018.jpg - Wikipedia",
+            "htmlTitle": "ファイル:<b>Messi</b> vs Nigeria 2018.jpg - Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Messi_vs_Nigeria_2018.jpg",
+            "displayLink": "ja.wikipedia.org",
+            "snippet": "English: Argentine footballer Lionel Messi on 26 June 2018, celebrating a goal in the 2018 FIFA World Cup group stage match against Nigeria.",
+            "htmlSnippet": "English: Argentine footballer Lionel <b>Messi</b> on 26 June 2018, celebrating a goal in the 2018 FIFA World Cup group stage match against Nigeria.",
+            "cacheId": "QrG1wDPbQ_cJ",
+            "formattedUrl": "https://ja.wikipedia.org/wiki/ファイル:Messi_vs_Nigeria_2018.jpg",
+            "htmlFormattedUrl": "https://ja.wikipedia.org/wiki/ファイル:<b>Messi</b>_vs_Nigeria_2018.jpg",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOgf9Za_FQWK-WBTimUzIDUgpL9JsgInAVL-kM1qLnEAa7r2IzShcV4F0",
+                        "width": "227",
+                        "height": "222"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Messi_vs_Nigeria_2018.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=1000, initial-scale=1.0",
+                        "og:title": "ファイル:Messi vs Nigeria 2018.jpg - Wikipedia",
+                        "og:image:height": "1175",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Messi_vs_Nigeria_2018.jpg"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Messi vs Nigeria 2018.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ファイル:Emile fabri, le messi, 1921.jpg - Wikipedia",
+            "htmlTitle": "ファイル:Emile fabri, le <b>messi</b>, 1921.jpg - Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Emile_fabri,_le_messi,_1921.jpg",
+            "displayLink": "ja.wikipedia.org",
+            "snippet": "ファイル:Emile fabri, le messi, 1921.jpg · 閲覧 · ウィキメディア・コモンズで閲覧 · ローカルの解説を作成.",
+            "htmlSnippet": "ファイル:Emile fabri, le <b>messi</b>, 1921.jpg &middot; 閲覧 &middot; ウィキメディア・コモンズで閲覧 &middot; ローカルの解説を作成.",
+            "cacheId": "PdWUpbnB6yAJ",
+            "formattedUrl": "https://ja.wikipedia.org/wiki/ファイル:Emile_fabri,_le_messi,_1921.jpg",
+            "htmlFormattedUrl": "https://ja.wikipedia.org/wiki/ファイル:Emile_fabri,_le_<b>messi</b>,_1921.jpg",
+            "pagemap": {
+                "hcard": [
+                    {
+                        "fn": "世紀末美術館",
+                        "nickname": "世紀末美術館",
+                        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Louis_Majorelle-Vitrine_biblioth%C3%A8que_n%C3%A9nuphar.jpg/93px-Louis_Majorelle-Vitrine_biblioth%C3%A8que_n%C3%A9nuphar.jpg"
+                    }
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCdCQLEf6fmDR2vmYfmcU6hYJSby61nzvJxznQDwLxN25tRgskXOk2Z5oE",
+                        "width": "193",
+                        "height": "261"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Emile_fabri%2C_le_messi%2C_1921.jpg/1200px-Emile_fabri%2C_le_messi%2C_1921.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=1000, initial-scale=1.0",
+                        "og:title": "ファイル:Emile fabri, le messi, 1921.jpg - Wikipedia",
+                        "og:image:height": "1619",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Emile_fabri%2C_le_messi%2C_1921.jpg/1200px-Emile_fabri%2C_le_messi%2C_1921.jpg"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "イタリア語: le messi"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ファイル:Leo messi barce 2005.jpg - Wikipedia",
+            "htmlTitle": "ファイル:Leo <b>messi</b> barce 2005.jpg - Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Leo_messi_barce_2005.jpg",
+            "displayLink": "ja.wikipedia.org",
+            "snippet": "English: Leo Messi with FC Barcelona in the 2005-06 season against Málaga. 日付, 2005年10月26日. 原典, https://www.flickr.com/photos/thundershead/274557929/.",
+            "htmlSnippet": "English: Leo <b>Messi</b> with FC Barcelona in the 2005-06 season against Málaga. 日付, 2005年10月26日. 原典, https://www.flickr.com/photos/thundershead/274557929/.",
+            "cacheId": "mjh3C6TPIm0J",
+            "formattedUrl": "https://ja.wikipedia.org/wiki/ファイル:Leo_messi_barce_2005.jpg",
+            "htmlFormattedUrl": "https://ja.wikipedia.org/wiki/ファイル:Leo_<b>messi</b>_barce_2005.jpg",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSI0L9gRN4LNy5JzfKVPlTZB7n9XU4nHDbJekPsRsQxR6YPP-O64UflQ85G",
+                        "width": "188",
+                        "height": "268"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Leo_messi_barce_2005.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=1000, initial-scale=1.0",
+                        "og:title": "ファイル:Leo messi barce 2005.jpg - Wikipedia",
+                        "og:image:height": "1709",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Leo_messi_barce_2005.jpg/421px-Leo_messi_barce_2005.jpg"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Leo messi barce 2005.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ファイル:Leo Messi 2016.PNG - Wikipedia",
+            "htmlTitle": "ファイル:Leo <b>Messi</b> 2016.PNG - Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Leo_Messi_2016.PNG",
+            "displayLink": "ja.wikipedia.org",
+            "snippet": "ファイル:Leo Messi 2016.PNG · このファイルは、ウィキメディア・コモンズから呼び出されています。 · このファイルは、他のプロジェクトで使用されている可能性があります ...",
+            "htmlSnippet": "ファイル:Leo <b>Messi</b> 2016.PNG &middot; このファイルは、ウィキメディア・コモンズから呼び出されています。 &middot; このファイルは、他のプロジェクトで使用されている可能性があります&nbsp;...",
+            "cacheId": "kOhN803tzVIJ",
+            "formattedUrl": "https://ja.wikipedia.org/wiki/ファイル:Leo_Messi_2016.PNG",
+            "htmlFormattedUrl": "https://ja.wikipedia.org/wiki/ファイル:Leo_<b>Messi</b>_2016.PNG",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqtzclDZOkz940svrCGbv2fdZf85-gb4-KiqvauWcylj93xBPxImJKa5c",
+                        "width": "174",
+                        "height": "289"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Leo_Messi_2016.PNG",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=1000",
+                        "og:title": "ファイル:Leo Messi 2016.PNG - Wikipedia",
+                        "og:image:height": "1993",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Leo_Messi_2016.PNG"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Leo Messi 2016.PNG"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ファイル:Messi Barcelona - Valladolid (cropped).jpg - Wikipedia",
+            "htmlTitle": "ファイル:<b>Messi</b> Barcelona - Valladolid (cropped).jpg - Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Messi_Barcelona_-_Valladolid_(cropped).jpg",
+            "displayLink": "ja.wikipedia.org",
+            "snippet": "Español: Lionel Messi, en un partido de la Liga 2009-2010 que enfrentó al FC Barcelona contra el Real Valladolid. 日付, 2010年8月21日, 23: ...",
+            "htmlSnippet": "Español: Lionel <b>Messi</b>, en un partido de la Liga 2009-2010 que enfrentó al FC Barcelona contra el Real Valladolid. 日付, 2010年8月21日, 23:&nbsp;...",
+            "cacheId": "Iyy3uS1T7vUJ",
+            "formattedUrl": "https://ja.wikipedia.org/.../ファイル:Messi_Barcelona_-_Valladolid_(cropped). jpg",
+            "htmlFormattedUrl": "https://ja.wikipedia.org/.../ファイル:<b>Messi</b>_Barcelona_-_Valladolid_(cropped). jpg",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTD9BaKWB9qQRZHA29jOGX8A7woVtv80aNSsMxF-s8x2V_IP_4lP9og-D2l",
+                        "width": "185",
+                        "height": "273"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Messi_Barcelona_-_Valladolid_%28cropped%29.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=1000",
+                        "og:title": "ファイル:Messi Barcelona - Valladolid (cropped).jpg - Wikipedia",
+                        "og:image:height": "1772",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Messi_Barcelona_-_Valladolid_%28cropped%29.jpg"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Messi Barcelona - Valladolid (cropped).jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ファイル:Messi Barcelona - Valladolid.jpg - Wikipedia",
+            "htmlTitle": "ファイル:<b>Messi</b> Barcelona - Valladolid.jpg - Wikipedia",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Messi_Barcelona_-_Valladolid.jpg",
+            "displayLink": "ja.wikipedia.org",
+            "snippet": "Español: Lionel Messi, en un partido de la Liga 2009-2010 que enfrentó al FC Barcelona contra el Real Valladolid. 日付, 2010年5月16日, 11:10. 原典, DSC_0196.",
+            "htmlSnippet": "Español: Lionel <b>Messi</b>, en un partido de la Liga 2009-2010 que enfrentó al FC Barcelona contra el Real Valladolid. 日付, 2010年5月16日, 11:10. 原典, DSC_0196.",
+            "cacheId": "Q1AKP_ZgdqgJ",
+            "formattedUrl": "https://ja.wikipedia.org/wiki/ファイル:Messi_Barcelona_-_Valladolid.jpg",
+            "htmlFormattedUrl": "https://ja.wikipedia.org/wiki/ファイル:<b>Messi</b>_Barcelona_-_Valladolid.jpg",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWaB1oxxDOK-HnvrWxH0ks8EzbYR6QUQkJftTqfRGK6bMMG24k3FI42FMx",
+                        "width": "220",
+                        "height": "230"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Messi_Barcelona_-_Valladolid.jpg/1200px-Messi_Barcelona_-_Valladolid.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=1000, initial-scale=1.0",
+                        "og:title": "ファイル:Messi Barcelona - Valladolid.jpg - Wikipedia",
+                        "og:image:height": "1254",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Messi_Barcelona_-_Valladolid.jpg/1200px-Messi_Barcelona_-_Valladolid.jpg"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Messi Barcelona - Valladolid.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ファイル:Cristiano Ronaldo and Lionel Messi - Portugal vs ...",
+            "htmlTitle": "ファイル:Cristiano Ronaldo and Lionel <b>Messi</b> - Portugal vs ...",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina,_9th_February_2011.jpg",
+            "displayLink": "ja.wikipedia.org",
+            "snippet": "ファイル:Cristiano Ronaldo and Lionel Messi - Portugal vs Argentina, 9th February 2011.jpg · ファイル · ファイルの履歴 · ファイルの使用状況 · グローバルなファイル ...",
+            "htmlSnippet": "ファイル:Cristiano Ronaldo and Lionel <b>Messi</b> - Portugal vs Argentina, 9th February 2011.jpg &middot; ファイル &middot; ファイルの履歴 &middot; ファイルの使用状況 &middot; グローバルなファイル&nbsp;...",
+            "cacheId": "Vv053Eiwu80J",
+            "formattedUrl": "https://ja.wikipedia.org/.../ファイル:Cristiano_Ronaldo_and_Lionel_Messi_-_ Portugal_vs_Argentina,_9th_February_2011.jpg",
+            "htmlFormattedUrl": "https://ja.wikipedia.org/.../ファイル:Cristiano_Ronaldo_and_Lionel_<b>Messi</b>_-_ Portugal_vs_Argentina,_9th_February_2011.jpg",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXh8G9pVrH7HTLeRYwTMzRI4rEBEZjwD4wPFvx0kSQNsV2Ipld07BPrJwR",
+                        "width": "194",
+                        "height": "259"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg/1200px-Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=1000",
+                        "og:title": "ファイル:Cristiano Ronaldo and Lionel Messi - Portugal vs Argentina, 9th February 2011.jpg - Wikipedia",
+                        "og:image:height": "1600",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg/1200px-Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Cristiano Ronaldo and Lionel Messi - Portugal vs Argentina, 9th February 2011.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "ファイル:Messi in Germany and Argentina face off in the final of the ...",
+            "htmlTitle": "ファイル:<b>Messi</b> in Germany and Argentina face off in the final of the ...",
+            "link": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Messi_in_Germany_and_Argentina_face_off_in_the_final_of_the_World_Cup_2014_-2014-07-13_(24).jpg",
+            "displayLink": "ja.wikipedia.org",
+            "snippet": "Español: Lionel Messi and Mats Hummels in the final match of World Cup 2014 between Germany and Argentina 2014-07-13. 日付, 2014年7月13日, 15:52:58.",
+            "htmlSnippet": "Español: Lionel <b>Messi</b> and Mats Hummels in the final match of World Cup 2014 between Germany and Argentina 2014-07-13. 日付, 2014年7月13日, 15:52:58.",
+            "cacheId": "3EkQxgQtswEJ",
+            "formattedUrl": "https://ja.wikipedia.org/.../ファイル:Messi_in_Germany_and_Argentina_face_ off_in_the_final_of_the_World_Cup_2014_-2014-07-13_(24).jpg",
+            "htmlFormattedUrl": "https://ja.wikipedia.org/.../ファイル:<b>Messi</b>_in_Germany_and_Argentina_face_ off_in_the_final_of_the_World_Cup_2014_-2014-07-13_(24).jpg",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQB2uFI6FGymzrkOEU0n3S1QiL7yrnOxsqFSBOsDM9854C_l1htmMz3kY4Y",
+                        "width": "194",
+                        "height": "259"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Messi_in_Germany_and_Argentina_face_off_in_the_final_of_the_World_Cup_2014_-2014-07-13_%2824%29.jpg",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "viewport": "width=1000",
+                        "og:title": "ファイル:Messi in Germany and Argentina face off in the final of the World Cup 2014 -2014-07-13 (24).jpg - Wikipedia",
+                        "og:image:height": "1600",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Messi_in_Germany_and_Argentina_face_off_in_the_final_of_the_World_Cup_2014_-2014-07-13_%2824%29.jpg"
+                    }
+                ],
+                "hproduct": [
+                    {
+                        "fn": "Messi in Germany and Argentina face off in the final of the World Cup 2014 -2014-07-13 (24).jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
