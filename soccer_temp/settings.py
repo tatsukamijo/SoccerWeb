@@ -31,10 +31,6 @@ try:
 except ImportError:
   pass
 
-if not DEBUG:
-  SECRET_KEY = os.environ['SECRET_KEY']
-  import django_heroku #追加
-  django_heroku.settings(locals()) #追加
 
 ALLOWED_HOSTS = ['*']
 
@@ -61,6 +57,11 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
+
+if not DEBUG:
+  SECRET_KEY = os.environ['SECRET_KEY']
+  import django_heroku #追加
+  django_heroku.settings(locals()) #追加
 
 ROOT_URLCONF = 'soccer_temp.urls'
 
