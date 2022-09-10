@@ -24,7 +24,15 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 from .local_settings import SECRET_KEY
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
+
+try:
+  from .local_settings import *
+except ImportError:
+  pass
+
+if not DEBUG:
+  SECRET_KEY = os.environ['SECRET_KEY']
 
 ALLOWED_HOSTS = []
 
